@@ -1106,6 +1106,7 @@
   <!-- Custom repos -->
   <include name="snippets/remove.xml" />
   <include name="snippets/aex.xml" />
+  <include name="snippets/aex-fork.xml" />
   <include name="snippets/lineage.xml" />
 
 </manifest>
