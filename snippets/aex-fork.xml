@@ -11,4 +11,7 @@
   <project path="device/qcom/sepolicy_vndr" name="platform_device_qcom_sepolicy_vndr" groups="qcom,pdk-qcom" remote="aex-fork" />
   <project path="device/aosp/sepolicy" name="platform_device_aosp_sepolicy" remote="aex-fork" />
 
+  <!--hardware-->
+  <project path="hardware/qcom-caf/sm8150/display" name="platform_hardware_qcom_display" groups="pdk-qcom,qcom,qcom_display" remote="aex-fork"  revision="12.x-caf-sm8150" />
+
 </manifest>
